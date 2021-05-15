@@ -17,6 +17,7 @@
 		0989D536264F60390051BB68 /* CardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0989D535264F60390051BB68 /* CardView.swift */; };
 		0989D53A264F6FAC0051BB68 /* ScrumsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0989D539264F6FAC0051BB68 /* ScrumsView.swift */; };
 		0989D53C264F75700051BB68 /* DetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0989D53B264F75700051BB68 /* DetailView.swift */; };
+		0989D53E26501A690051BB68 /* EditView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0989D53D26501A690051BB68 /* EditView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -54,6 +55,7 @@
 		0989D535264F60390051BB68 /* CardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardView.swift; sourceTree = "<group>"; };
 		0989D539264F6FAC0051BB68 /* ScrumsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrumsView.swift; sourceTree = "<group>"; };
 		0989D53B264F75700051BB68 /* DetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailView.swift; sourceTree = "<group>"; };
+		0989D53D26501A690051BB68 /* EditView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EditView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -147,6 +149,7 @@
 			isa = PBXGroup;
 			children = (
 				0989D533264F5F260051BB68 /* DailyScrum.swift */,
+				0989D53D26501A690051BB68 /* EditView.swift */,
 				0989D532264F5EB20051BB68 /* Color+Codable.swift */,
 			);
 			path = Models;
@@ -285,6 +288,7 @@
 				0989D53C264F75700051BB68 /* DetailView.swift in Sources */,
 				0989D534264F5F260051BB68 /* DailyScrum.swift in Sources */,
 				0989D536264F60390051BB68 /* CardView.swift in Sources */,
+				0989D53E26501A690051BB68 /* EditView.swift in Sources */,
 				0989D53A264F6FAC0051BB68 /* ScrumsView.swift in Sources */,
 				0989D505264F52C90051BB68 /* ScrumdingerApp.swift in Sources */,
 			);
